@@ -129,6 +129,6 @@ overflow: hidden;
 /* Change the highlight     */
 /* color of the menu below */
 .site-menu a:hover {
-  color: orange;
+  color: red;
   text-decoration: none;
 }
